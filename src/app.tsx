@@ -11,7 +11,8 @@ export default function App() {
         <MetaProvider>
           <Title>SolidStart - Basic</Title>
           <a href="/">Index</a>
-          <a href="/about">About</a>
+          <a href="/counter">Counter</a>
+          <a href="/timer">Timer</a>
           <Suspense>{props.children}</Suspense>
         </MetaProvider>
       )}
