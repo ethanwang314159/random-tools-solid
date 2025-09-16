@@ -1,3 +1,11 @@
+# STUFF TO ADD
+- timer
+- birthday reminder/countdown like put people and their birthdays and it will tell you how many days
+- move hexadecimal training to one of the routes here
+- logging stuff idk
+
+
+
 # SolidStart
 
 Everything you need to build a Solid project, powered by [`solid-start`](https://start.solidjs.com);
