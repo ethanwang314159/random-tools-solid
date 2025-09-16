@@ -5,12 +5,12 @@ export default function Home() {
   return (
     <main>
       <Title>Random Tools</Title>
-      <h1>Hello world!</h1>
+      <h1>Random Tools</h1>
       <Counter />
       <p>
         Visit{" "}
-        <a href="https://start.solidjs.com" target="_blank">
-          start.solidjs.com
+        <a href="https://candra.dev" target="_blank">
+          candra.dev
         </a>{" "}
         to learn how to build SolidStart apps.
       </p>
